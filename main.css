@@ -1,15 +1,17 @@
-div{
+body {
 
 }
-
 .head1{
   background-color: #0C2340;
-  border: 2px solid white;
+  text-align: center;
+  padding: 20px;
+}
+.head2{
+  background-color: #C99700;
+  text-align:center;
+  padding: 20px;
 }
 
-body {
-  background-color: lightblue;
-}
 
 h2 {
   color: #0C2340;
