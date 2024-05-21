@@ -1,12 +1,15 @@
-body{
+body {
   background-color: lightblue;
 }
 
-h1{
+h2 {
   color: white;
   text-align: center;
+  font-family: verdana;
 }
 
-p{
-  font-family: red;
+p {
+  color: white;
+  font-family: verdana;
 }
+
