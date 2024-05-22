@@ -7,10 +7,12 @@ body,html {
   background-color: #0C2340;
   text-align: center;
   padding: 20px;
+  height: 100%;
 }
 .head2{
   background-color: #C99700;
   text-align:center;
+  height: 100%;
 }
 .menu {
     position: sticky;
