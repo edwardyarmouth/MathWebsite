@@ -23,6 +23,7 @@ body {
 .menu a {
     float: left;
     color: white;
+    font-family: courier new;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
