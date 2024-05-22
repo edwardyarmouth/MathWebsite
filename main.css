@@ -57,4 +57,12 @@ p {
   font-family: courier new;
   padding: 10 px;
 }
-
+.right-align {
+    text-align: right;
+}
+.left-align {
+    text-align: left;
+}
+.center-align {
+    text-align: center;
+}
